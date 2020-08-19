@@ -1,0 +1,19 @@
+HELP.md
+eurekaserver/target/
+first-service/target/
+gateway-service/target/
+second-service/target/
+zuul-gateway-service/target/
+
+.metadata/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### VS Code ###
